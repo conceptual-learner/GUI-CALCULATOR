@@ -1,1 +1,2 @@
 # GUI-CALCULATOR
+This is a calculator with a GUI that performs simple arithmetic operations. Users click buttons on the GUI to insert operands and operators. Operations performed are additon, subtraction, multiplication and division of integer and decimal number. This project was created using C# in visual studio 2017. The GUI was designed using the integrated GUI option, the downside of which was a lot of redundant code that was generated. This Calculator accepts both mouse input and Keyboard input.
